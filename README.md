@@ -1,6 +1,6 @@
 # Telegram API Cloud Drive
 
-Utilize your Telegram account as a cloud drive by leveraging the Telegram API. Enjoy the following features:
+Utilize your Telegram account as a cloud drive by leveraging the Telegram API. It includes following features:
 
 ## File Upload
 - Upload unlimited files, each with a size of up to 2GB.
