@@ -17,7 +17,7 @@ Utilize your Telegram account as a cloud drive by leveraging the Telegram API. I
     }
   ]
 ## File Download
--Download unlimited files from the same storage, with each file size capped at 20MB.
+-Download unlimited files from the same storage of your telegram account, with each file size capped at 20MB.
 -Access the file download endpoint: http://127.0.0.1:8000/api/download-file/{fileid}
 
 Feel free to integrate these functionalities into your projects and make the most out of your Telegram account!
